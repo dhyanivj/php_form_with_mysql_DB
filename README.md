@@ -1,6 +1,6 @@
 # php_form_with_mysql_DB
 
-#command for ubuntu based OS
+# command for ubuntu based OS
 
 // for stating xampp server
 
